@@ -139,7 +139,7 @@ This project is licensed under the **MIT License** — you’re free to use, mod
 ```
 MIT License
 
-Copyright (c) 2025 Goshike Aaditya
+Copyright (c) 2025 Shravya Vasa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
