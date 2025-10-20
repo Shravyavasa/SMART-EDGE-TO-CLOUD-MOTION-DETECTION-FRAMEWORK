@@ -127,7 +127,7 @@ python3 app.py
 ---
 
 ## 👨‍💻 Author
-**Goshike Aaditya**  
+**Shravya Vasa**
 *Project:* Smart Edge-to-Cloud Motion Detection Framework  
 *Technologies:* IoT • Edge Computing • Cloud Integration • AI • Flask • TensorFlow Lite  
 
